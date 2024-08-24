@@ -19,7 +19,7 @@ https://www.horstmuc.de
 
 http://purearea.net/pb/CodeArchiv/CodeArchiv.html
 
-https://purebasic.ucoz.com/publ/1
+https://www.codeproject.com/Articles/853831/PureBasic-The-Perfect-Cross-Platform-Native-Develo
 
 
 
