@@ -1,9 +1,11 @@
 # PureBasic
-yazılarım / my articles
+purebasic yazılarım / my articles
 
 https://akademi.robolinkmarket.com/purebasic-nedir
 
 https://erolcum.blogspot.com
+
+purebasic linkler..
 
 www.purebasic.com
 
