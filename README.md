@@ -9,6 +9,8 @@ purebasic linkler..
 
 www.purebasic.com
 
+https://www.purebasic.com/documentation/
+
 http://forums.purebasic.com/english
 
 https://www.rsbasic.de/download
