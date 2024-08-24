@@ -13,6 +13,8 @@ http://forums.purebasic.com/english
 
 https://www.rsbasic.de/download
 
+https://hex0rs.coderbu.de/en/codes/
+
 
 
 
