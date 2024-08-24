@@ -1,5 +1,5 @@
 # PureBasic
-purebasic yazılarım / my articles
+PB yazılarım..
 
 https://akademi.robolinkmarket.com/purebasic-nedir
 
