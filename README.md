@@ -1,0 +1,2 @@
+# PureBasic
+Blog yazılarım
