@@ -23,6 +23,8 @@ https://github.com/Hoeppner1867/PureBasic
 
 http://purearea.net/pb/CodeArchiv/CodeArchiv.html
 
+https://www.purebasic.fr/english/viewtopic.php?t=84111
+
 https://www.codeproject.com/Articles/853831/PureBasic-The-Perfect-Cross-Platform-Native-Develo
 
 
