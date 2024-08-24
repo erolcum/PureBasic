@@ -2,6 +2,7 @@
 yazılarım / my articles
 
 https://akademi.robolinkmarket.com/purebasic-nedir
+
 https://erolcum.blogspot.com
 
 www.purebasic.com
