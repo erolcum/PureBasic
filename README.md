@@ -5,13 +5,15 @@ https://akademi.robolinkmarket.com/purebasic-nedir
 
 https://erolcum.blogspot.com
 
-purebasic linkler..
+PB resmi linkleri..
 
 www.purebasic.com
 
 https://www.purebasic.com/documentation/
 
 http://forums.purebasic.com/english
+
+PB kullanıcı linkleri..
 
 https://www.rsbasic.de/download
 
