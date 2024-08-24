@@ -1,0 +1,1 @@
+CompilerIf #PB_Compiler_IsMainFile
