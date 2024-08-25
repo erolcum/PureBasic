@@ -1,4 +1,6 @@
 # PureBasic
+![IMG_9451](https://github.com/user-attachments/assets/1e766bc6-b1ff-4860-897d-bcf1e5ea382f)
+
 PB yazılarım..
 
 https://akademi.robolinkmarket.com/purebasic-nedir
