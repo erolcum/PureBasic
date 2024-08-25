@@ -5,9 +5,7 @@ https://akademi.robolinkmarket.com/purebasic-nedir
 
 https://erolcum.blogspot.com
 
-aşağıdaki siteleri **Türkçe** olarak görmek için, adresi, google translate'de web sitesi kutusuna yapıştırın : <br>https://translate.google.com/?hl=tr&sl=auto&tl=tr&op=websites
-
-PB resmi linkleri..
+PB resmi linkler..
 
 www.purebasic.com
 
