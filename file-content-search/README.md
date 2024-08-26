@@ -1,7 +1,7 @@
 Örneğin C:\Users\x\Documents\purebasic dizini içinde tüm dosyalara bakar ve aranan kelimeyi bulduğu dosyaları listeler<br>
 Bir komutun nasıl kullanıldığını bulmak için bir araç olarak da kullanılabilir..<br>
 Bunun için PB examples dizininde bulunan tüm dosyaları aynı dizine kopyalayın (C:\Users\x\Documents\purebasic)<br>
-https://www.purebasic.com/documentation/reference/ug_procedures.html adresinde bulunan programdan adapte edilmiştir<br>
+https://www.purebasic.com/documentation/reference/ug_procedures.html adresinde bulunan programdan adapte edilmiştir<br><br>
 PureBasic diline yeni başladıysanız ilk olarak kullanım kılavuzunu inceleyin derim :<br>
 https://www.purebasic.com/documentation/reference/ug_overview.html
 
