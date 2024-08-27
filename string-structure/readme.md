@@ -1,4 +1,4 @@
-Tools -> Structure Viewer ile bu String structure yapısını görebilirsiniz.<br>
+Tools -> Structure Viewer ile bu String structure yapısının aşağıdaki gibi olduğunu görebilirsiniz.<br>
 
 Structure String<br>
   s.s<br>
