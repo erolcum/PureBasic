@@ -1,4 +1,5 @@
 Box komutu ile form renkleniyor
 
-![image](https://github.com/user-attachments/assets/0d9d057f-010f-4965-a980-0847c9297333)
+![image](https://github.com/user-attachments/assets/e4bccfa2-1211-48ad-b966-e45b217b57c3)
+
 
