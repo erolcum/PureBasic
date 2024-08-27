@@ -27,6 +27,8 @@ https://github.com/Hoeppner1867/PureBasic
 
 https://github.com/SicroAtGit/PB-CodeArchiv-Rebirth/tree/master
 
+https://github.com/kenmo-pb/includes
+
 http://purearea.net/pb/CodeArchiv/CodeArchiv.html
 
 https://www.purebasic.fr/english/viewtopic.php?t=84111
