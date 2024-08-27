@@ -37,6 +37,8 @@ https://rosettacode.org/wiki/Category:PureBasic
 
 https://www.purebasic.fr/english/viewtopic.php?t=84111
 
+https://www.purebasic.fr/english/viewtopic.php?t=80656
+
 Bu yazının sonunda birkaç tane rusça kaynak var :
 https://www.codeproject.com/Articles/853831/PureBasic-The-Perfect-Cross-Platform-Native-Develo
 
