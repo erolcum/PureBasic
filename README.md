@@ -27,6 +27,8 @@ https://www.horstmuc.de
 
 https://github.com/Hoeppner1867/PureBasic
 
+https://jdevfullstack.github.io/PureBasic/
+
 https://github.com/SicroAtGit/PB-CodeArchiv-Rebirth/tree/master
 
 https://github.com/kenmo-pb/includes
