@@ -7,6 +7,9 @@ PB yazılarım..
 
 https://akademi.robolinkmarket.com/purebasic-nedir
 
+Sadece PB içeren, yeni blog sayfam :
+https://erolcum.github.io/about/
+
 https://erolcum.blogspot.com
 
 PB resmi linkler..
