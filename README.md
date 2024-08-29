@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferolcum%2FPureBasic%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-###PB yazılarım..
+**PB yazılarım..**
 
 https://akademi.robolinkmarket.com/purebasic-nedir
 
@@ -12,7 +12,7 @@ https://erolcum.github.io/about/
 
 https://erolcum.blogspot.com
 
-##PB resmi linkler..
+**PB resmi linkler..**
 
 www.purebasic.com
 
@@ -20,7 +20,7 @@ https://www.purebasic.com/documentation/
 
 http://forums.purebasic.com/english
 
-PB kullanıcı linkleri..
+**PB kullanıcı linkleri..**
 
 https://www.rsbasic.de/download
 
