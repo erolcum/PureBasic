@@ -1,5 +1,6 @@
 # PureBasic
-![IMG_9451](https://github.com/user-attachments/assets/1e766bc6-b1ff-4860-897d-bcf1e5ea382f)
+
+![image](https://github.com/user-attachments/assets/d7af80e4-5c50-4202-8757-5b6b02c4ae1c)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferolcum%2FPureBasic%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
