@@ -6,10 +6,10 @@
 
 **PB yazılarım..**
 
-https://akademi.robolinkmarket.com/purebasic-nedir
-
 Sadece PB içeren, yeni blog sayfam :
 https://erolcum.github.io/about/
+
+https://akademi.robolinkmarket.com/purebasic-nedir
 
 https://erolcum.blogspot.com
 
