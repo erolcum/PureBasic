@@ -13,7 +13,7 @@ SetFrameRate(30)
 
 Repeat
   
-  Repeat
+  Repeat ; While WindowEvent() : Wend
     Event = WindowEvent()
     If Event = #PB_Event_CloseWindow
       Exit = #True
